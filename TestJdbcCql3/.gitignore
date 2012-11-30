@@ -1,0 +1,7 @@
+org.eclipse*
+*.war
+*.class
+bin/
+*.jar
+.classpath
+target/
